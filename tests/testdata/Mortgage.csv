@@ -1,0 +1,31 @@
+full_name,dob,town,paye,salary_band,years_with_employer,months_with_employer,hours_per_week,capital_gain,capital_loss,new_mortgage,sex,religion,relationship,race,native_country,workclass,demographic_characteristic
+Mr. Dale Coles,1979-05-10,Edinburgh,53791313,£18109 yearly,20,6,40,2174,0,Yes,Male,Christianity,Not-in-family,White,United Kingdom,State-gov,77516
+Joel Allen,1968-07-06,Leeds,24005258,£16945 yearly,28,1,13,0,0,Yes,Male,Christianity,Husband,White,United Kingdom,Self-emp-not-inc,83311
+Mr. Craig Marc Davis,1979-02-10,Edinburgh,44124649,£729.87 pw,14,5,40,0,0,Yes,Male,Christianity,Not-in-family,White,United Kingdom,Private,215646
+Mr. Brandon Thornton,1965-10-20,Edinburgh,85701281,£19087 yearly,32,6,40,0,0,Yes,Male,Christianity,Husband,Black,United Kingdom,Private,234721
+Miss Brett Carol Fletcher,1990-02-20,Swindon,BR442000,£2741.5 per month,3,6,40,0,0,Yes,Female,Christianity,Wife,Black,Sweden,Private,338409
+Dr. Christopher Barker,1980-02-09,Leicester,61833975,£468.46 pw,3,11,40,0,0,Yes,Female,Christianity,Wife,White,United Kingdom,Private,284582
+Ms. Jeremy Ward,1968-02-18,Edinburgh,32213423,£1366.48 per month,2,6,16,0,0,Yes,Female,Christianity,Not-in-family,Black,Jamaica,Private,160187
+Mr. Karl Gavin Cox,1965-02-09,Sunderland,14526572,£37407 yearly,2,5,45,0,0,Yes,Male,Christianity,Husband,White,United Kingdom,Self-emp-not-inc,209642
+Hugh Stacey Armstrong,1987-03-02,Swindon,NW384000,£3312.78 per month,4,4,50,14084,0,Yes,Female,Christianity,Not-in-family,White,United Kingdom,Private,45781
+Mr. Mathew Andrew Fox,1976-03-20,South Caroline,72232552,£16785 yearly,0,1,40,5178,0,Yes,Male,Christianity,Husband,White,United Kingdom,Private,159449
+Aaron Arthur Griffiths,1980-06-19,Edinburgh,20721756,£3977.75 per month,4,7,80,0,0,Yes,Male,Christianity,Husband,Black,United Kingdom,Private,280464
+Carl Brandon Dale,1987-09-16,Bethanbury,00040587,£15454 - 28010 range,5,8,40,0,0,Yes,Male,Christianity,Husband,Asian-Pac-Islander,India,State-gov,141297
+Miss Christian Barton,1994-02-19,Edinburgh,12243525,£25994 yearly,2,11,30,0,0,Yes,Female,Not Stated,Own-child,White,United Kingdom,Private,122272
+Dr. Declan Hart,1987-01-10,Bristol,85676497,£1678.47 per month,0,4,50,0,0,Yes,Male,Christianity,Not-in-family,Black,United Kingdom,Private,205019
+Barry Brown,1977-12-11,Swindon,38670664,£29649 yearly,3,10,40,0,0,Yes,Male,Christianity,Husband,Asian-Pac-Islander,?,Private,121772
+Mathew Kevin Brown,1983-11-22,Edinburgh,35912520,60406468.73ANG,5,8,45,0,0,Yes,Male,Islam,Husband,Amer-Indian-Eskimo,Scotland,Private,245487
+Mr. Raymond Dylan Nicholson,1992-05-29,Edinburgh,23537316,£20568 yearly,2,7,35,0,0,Yes,Male,Christianity,Own-child,White,United Kingdom,Self-emp-not-inc,176756
+Mr. Benjamin Bartlett,1985-04-21,Edinburgh,84905673,£18039 yearly,1,8,40,0,0,Yes,Male,Christianity,Unmarried,White,United Kingdom,Private,186824
+Bradley Rose,1980-04-17,Bristol,84895493,£1151.26 pw,4,0,50,0,0,Yes,Male,Christianity,Husband,White,United Kingdom,Private,28887
+Ross Carr,1974-11-15,North Sean,08875754,£18812 - 34096 range,13,6,45,0,0,Yes,Female,Christianity,Unmarried,White,United Kingdom,Self-emp-not-inc,292175
+Dr. Christopher Joseph Lloyd,1978-04-03,Swindon,47929159,£86190 yearly,7,2,60,0,0,Yes,Male,Christianity,Husband,White,United Kingdom,Private,193524
+Miss Graeme Alexandra Wood,1964-10-02,Edinburgh,57212098,46262.82IMP,0,4,20,0,0,Yes,Female,Christianity,Unmarried,Black,United Kingdom,Private,302146
+Bryan Shaun Barry,1982-08-28,Edinburgh,36215126,£3386.19 per month,9,1,40,0,0,Yes,Male,Christianity,Husband,Black,United Kingdom,Federal-gov,76845
+Christian Smith,1975-07-25,Edinburgh,EE913000,£2400.42 per month,7,9,40,0,2042,Yes,Male,Christianity,Husband,White,United Kingdom,Private,117037
+Mrs. James Kirsty Hill,1958-05-03,Bristol,EE913000,£15572 yearly,7,4,40,0,0,Yes,Female,Not Stated,Unmarried,White,United Kingdom,Private,109015
+Mr. James Philip Bradshaw,1962-07-13,Oxford,22143556,£65299 - 118354 range,0,11,40,0,0,Yes,Male,Christianity,Husband,White,United Kingdom,Local-gov,216851
+Mr. Joseph Price,1999-02-08,Edinburgh,60614544,£1508.84 per month,0,10,40,0,0,Yes,Male,Christianity,Own-child,White,United Kingdom,Private,168294
+Mr. Norman Wells,1964-12-28,Swindon,NW384000,£2295.87 per month,17,1,60,0,0,Yes,Male,Christianity,Husband,Asian-Pac-Islander,Netherlands,?,180211
+Lewis Watson,1979-10-23,Lake Oliver,71616834,£1651.42 per month,10,1,80,0,0,Yes,Male,Christianity,Not-in-family,White,United Kingdom,Private,367260
+Jeffrey Ryan Pearce,1969-12-09,Swindon,NW384000,£369.46 pw,2,0,40,0,0,Yes,Male,Not Stated,Husband,White,United Kingdom,Private,193366
