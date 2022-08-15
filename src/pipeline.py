@@ -13,7 +13,13 @@ random_over_sampler = RandomOverSampler()
 
 # Use column transformer to one-hot-encode only the categorical columns
 column_transformer = ColumnTransformer(
-    [("one_hot_encode", OneHotEncoder(), ["marital_status", "workclass"])],
+    [
+        (
+            "one_hot_encode",
+            OneHotEncoder(handle_unknown="ignore"),
+            ["marital_status", "workclass"],
+        )
+    ],
     remainder="passthrough",
     verbose_feature_names_out=False,
 )
